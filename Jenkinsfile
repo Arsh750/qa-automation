@@ -41,7 +41,6 @@ pipeline {
         }
     }
 }
-=======
 pipeline {
     agent any
 
